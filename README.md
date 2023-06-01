@@ -1,12 +1,4 @@
-## 🚀 About Me
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-, I'm inventor++</h1></summary>
-  </ul>
-</div>
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm inventor++
 
 <!--- snake -->
 <div align="center">
@@ -14,91 +6,209 @@
        alt="snake" /></a>
 </div>
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Nothing is too wonderful to be true...</h2></summary>
   </ul>
 </div>
 
-<!--Intro start-->
-- 🔭 I’m a **Physicist, an Electronics Developer and a Software Developer.**
+## Physicist, Electronics Developer and Software Developer.
 
-- 🌱 I am a **Software developer, building scalable software applications mainly in the Django and React tech stack.**
-
+- 🔭 I am a **Software developer, building scalable software applications mainly in the Django and React tech stack.**
 - ☁️ I've keen interest in cloud computing. So,I'm working with **AWS**
-
 - 💬 Ask me about **Embedded, Mobile, Desktop, Web & Cloud-based application software development.**
+- - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
-- 📫 Feel free to reach me out **zzindasebali@gmail.com**
+<!-- <table>
+    <tr>
+        <th>My Blog</th>
+        <th>My Website</th>
+        <th>My CV</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+        </td>
+        <td>
+            <a href="https://colinbut.github.io/">🌐</a>
+        </td>
+        <td>
+            <a href="https://colinbut.github.io/online-resume">📃</a>
+        </td>
+    </tr>
+</table>
 
--<!--Intro end-->
 
-## 🛠️ Skills
 
-### Languages
+## Contact me:
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> -->
 
-### Front-End Development
+## Toolset
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<table>
+    <tr>
+        <td>Automation Tooling</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Cloud Engineering</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>CI/CD</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>SysOps</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/linux/linux-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/unix/unix-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Programming/Backend</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Monitoring & Observability</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Frontend Dev</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Databases/Datastores</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>IDEs</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Others/Misc</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+</table>
 
-### Block-Chain Development
 
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+<br/>
 
-### Cross Platform Development
+<!-- ## Support my Work
+<br/>
+<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
 
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
-### Backend as a Service (BaaS)
+<br />
 
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+## My GitHub Stats
 
-### Design Tools
-
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### Testing
-
-![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🖥️ Workspace Setup
-
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-## 📈 Stats
-
-## 🔗 Links
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table> -->
