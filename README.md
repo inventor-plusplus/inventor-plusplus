@@ -17,7 +17,6 @@
 - 🔭 I am a **Software developer, building scalable software applications mainly in the Django and React tech stack.**
 - ☁️ I've keen interest in cloud computing. So,I'm working with **AWS**
 - 💬 Ask me about **Embedded, Mobile, Desktop, Web & Cloud-based application software development.**
-- - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
 <!-- <table>
     <tr>
