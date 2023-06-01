@@ -15,8 +15,8 @@
 ## Physicist, Electronics Developer and Software Developer.
 
 - 🔭 I am a **Software developer, building scalable software applications mainly in the Django and React tech stack.**
-- ☁️ I've a keen interest in cloud computing. So, I'm working with **AWS**
-- 💬 Ask me about **Embedded, Mobile, Desktop, Web & Cloud-based application Software development.**
+- ☁️ I've a keen interest in Cloud Computing. So, I'm working with **AWS**
+- 💬 Ask me about **Embedded, Mobile, Desktop, Web & Cloud-based Application Software development.**
 
 <!-- <table>
     <tr>
