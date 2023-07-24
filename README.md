@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-## Physicist, Electronics Developer and Software Developer.
+## Software Developer.
 
 - 🔭 I am a **Software developer, building scalable software applications mainly in the Django and React tech stack.**
 - ☁️ I've a keen interest in Cloud Computing. So, I'm working with **AWS**
@@ -40,7 +40,9 @@
 ## Contact me:
 
 <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> -->
+
 <a href="https://www.linkedin.com/in/inventor-plusplus-623065271/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
 <!-- <a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> -->
 
 ## Toolset
@@ -133,7 +135,7 @@
         </td>
     </tr>
     <tr>
-        <td>Databases/Datastores</td>
+        <td>Databases</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
@@ -160,13 +162,10 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
         </td>
     </tr>
     <tr>
-        <td>Others/Misc</td>
+        <td>Miscellaneous</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
@@ -174,11 +173,9 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a> -->
         </td>
     </tr>
 </table>
-
 
 <br/>
 
@@ -198,7 +195,7 @@
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
